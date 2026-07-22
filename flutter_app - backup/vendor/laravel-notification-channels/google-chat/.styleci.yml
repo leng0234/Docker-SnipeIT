@@ -1,5 +1,0 @@
-preset: laravel
-disabled:
-  - laravel_braces
-enabled:
-  - psr12_braces

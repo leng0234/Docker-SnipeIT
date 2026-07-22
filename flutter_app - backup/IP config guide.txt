@@ -1,3 +1,0 @@
-ถ้าIPเปลี่ยน  configที่
-- .env ในแอพIT-Scanner
-- .env ในไฟล์snipe-IT
