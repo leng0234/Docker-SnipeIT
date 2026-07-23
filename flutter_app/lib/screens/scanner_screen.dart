@@ -268,7 +268,7 @@ class _ScannerScreenState extends State<ScannerScreen>
       } else {
         setState(() {
           _lastError = 'ไม่พบ Asset Tag "$tag" ในระบบ\n'
-              'กรุณาตรวจสอบ Barcode หรือติดต่อผู้ดูแลระบบ';
+              'กรุณาตรวจสอบ Barcode';
         });
       }
     } catch (e) {
